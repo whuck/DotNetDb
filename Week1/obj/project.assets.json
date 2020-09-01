@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wilhab\\Desktop\\skool\\dotNet DB programming\\DotNetDb\\Week1\\Week1.csproj",
+      "projectUniqueName": "C:\\Users\\Wilhab\\Desktop\\skool\\dotNetFall20\\DotNetDb\\Week1\\Week1.csproj",
       "projectName": "Week1",
-      "projectPath": "C:\\Users\\Wilhab\\Desktop\\skool\\dotNet DB programming\\DotNetDb\\Week1\\Week1.csproj",
+      "projectPath": "C:\\Users\\Wilhab\\Desktop\\skool\\dotNetFall20\\DotNetDb\\Week1\\Week1.csproj",
       "packagesPath": "C:\\Users\\Wilhab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wilhab\\Desktop\\skool\\dotNet DB programming\\DotNetDb\\Week1\\obj\\",
+      "outputPath": "C:\\Users\\Wilhab\\Desktop\\skool\\dotNetFall20\\DotNetDb\\Week1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wilhab\\AppData\\Roaming\\NuGet\\NuGet.Config"
